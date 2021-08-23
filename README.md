@@ -1,0 +1,3 @@
+# VideoPresentationOfDotProduct
+
+Work in progress
